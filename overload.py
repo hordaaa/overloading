@@ -1,5 +1,5 @@
 from types import UnionType, FunctionType
-from typing import get_args, Optional
+from typing import get_args
 
 
 class NoRegisterArgumentError(Exception):
